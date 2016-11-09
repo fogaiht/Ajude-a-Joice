@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Ajude a Joice</string>
+    <string name="action_settings">Settings</string>
+    <string name="eventos">Eventos</string>
+    <string name="ajude">Ajude</string>
+    <string name="loja">Lojinha</string>
+    <string name="go_to2">Me leve até Lá!</string>
+    <string name="rota">Clique abaixo para traçar a rota</string>
+    <string name="empty"> </string>
+    <string name="if_help">Caso queira ajudar basta clicar no botão abaixo</string>
+    <string name="vakinha">O Vakinha.com.br é um site para se fazer a tradicional vaquinha (que é uma atividade onde pessoas se juntam dando contribuições para atingir determinado objetivo financeiro) na internet.</string>
+    <string name="soon">Em Breve...</string>
+    <string name="wait">Enquanto isso... curta a página do Facebook"</string>
+    <string name="go_to">Local do Evento!</string>
+    <string name="title_activity_historia">História</string>
+    <string name="fb">Conheça a página da campanha</string>
+    <string name="fb2">#TodosPelaJoice</string>
+    <string name="video">Video sobre a Joice</string>
+    <string name="api_maps_key">AIzaSyC0aRVqE7vZjCwJ3m3ZpSYEVJ51_Bc4s2A</string>
+    <string name="large_text2">
+        - Quem é a Joice?\n
+
+        \nJoice é uma baiana de 18 anos, que mora em Uberlândia - MG e é estudante de biomedicina da Universidade Federal de Uberlândia (UFU).\n
+
+        \n- A Doença:\n
+        \nEm 2012, aos 14 anos, ela foi diagnosticada com Doença de Crohn, uma doença autoimune crônica, sem cura e que ataca seu intestino. Alguns de seus sintomas são diarreia crônica, fortes cólicas abdominais, dores nas articulações, perca de peso, deficiência alimentar, sangramentos, dores nas articulações, pele ressecada, cansaço e fadiga e um grande trauma psicológico. Desde o diagnóstico ela começou a ser medicada, porém a doença se mostrou muito agressiva e mesmo com todas essas tentativas não foi possível controlá-la, tendo como próximo passo do tratamento convencional, abordagens cirúrgicas para retirada de segmentos inflamados do intestino. Atualmente ela faz uso de corticoides, imunossupressores e imunobiológicos, além de antidepressivos e remédios para ansiedade.\n
+
+        \n- O Tratamento:\n
+        \nAno passado, a Joice teve conhecimento de um novo tratamento para a doença, um Transplante Autólogo de Medula Óssea. Trata-se de um procedimento não cirúrgico, no qual suas próprias células-tronco são retiradas, manipuladas e depois reimplantadas nela. Pacientes que já fizeram esse tratamento relatam estar sem uso de nenhuma medicação para a doença de Crohn e sem sintomas da doença.\n
+
+        \n- Os Médicos:\n
+        \nÉ um tratamento experimental que não é custeado pelo SUS, e infelizmente ela não tem plano de saúde. Ele é realizado apenas em São José do Rio Preto - SP, com a equipe do hematologista Dr. Milton Ruiz em conjunto com a equipe de gastrenterologia do Dr. Kaiser, no Hospital Beneficência Portuguesa.\n
+
+        \n- Os Custos:\n
+        \nO tratamento não tem um valor exato, mas gira em torno de R$ 200.000,00. O custo depende principalmente de como o organismo da Joice irá reagir aos procedimentos. Dentre esse valor total, estão inclusos os custos gerais com o hospital (envolvendo médicos, enfermeiros, exames, procedimentos cirúrgicos, medicamentos, etc), alimentação da Joice e seus pais (que estarão a acompanhando), transporte, aluguel de um apartamento por 3 a 5 meses (o tratamento é gradativo e lento, e assim há a necessidade de que ela se hospede em um apartamento próximo ao hospital, completamente esterilizado e incubado, para evitar que ela tenha qualquer problema de saúde durante o processo), bem como os gastos rotineiros de uma moradia nesses meses.\n
+    </string>
+    <string name="quem">\n- Quem é a Joice?\n\nJoice é uma baiana de 18 anos, que mora em Uberlândia-MG e é estudante de biomedicina da Universidade Federal de Uberlândia (UFU).\n</string>
+    <string name="doenca">\n- A Doença:\n\nEm 2012, aos 14 anos, ela foi diagnosticada com Doença de Crohn, uma doença autoimune crônica, sem cura e que ataca seu intestino. Alguns de seus sintomas são diarreia crônica, fortes cólicas abdominais, dores nas articulações, perca de peso, deficiência alimentar, sangramentos, dores nas articulações, pele ressecada, cansaço e fadiga e um grande trauma psicológico. Desde o diagnóstico ela começou a ser medicada, porém a doença se mostrou muito agressiva e mesmo com todas essas tentativas não foi possível controlá-la, tendo como próximo passo do tratamento convencional, abordagens cirúrgicas para retirada de segmentos inflamados do intestino. Atualmente ela faz uso de corticoides, imunossupressores e imunobiológicos, além de antidepressivos e remédios para ansiedade.\n</string>
+    <string name="tratamento">\n- O Tratamento:\n\nAno passado, a Joice teve conhecimento de um novo tratamento para a doença, um Transplante Autólogo de Medula Óssea. Trata-se de um procedimento não cirúrgico, no qual suas próprias células-tronco são retiradas, manipuladas e depois reimplantadas nela. Pacientes que já fizeram esse tratamento relatam estar sem uso de nenhuma medicação para a doença de Crohn e sem sintomas da doença.\n</string>
+    <string name="medicos">\n- Os Médicos:\n\nÉ um tratamento experimental que não é custeado pelo SUS, e infelizmente ela não tem plano de saúde. Ele é realizado apenas em São José do Rio Preto - SP, com a equipe do hematologista Dr. Milton Ruiz em conjunto com a equipe de gastrenterologia do Dr. Kaiser, no Hospital Beneficência Portuguesa.\n</string>
+    <string name="custos">\n- Os Custos:\n\nO tratamento não tem um valor exato, mas gira em torno de R$ 200.000,00. O custo depende principalmente de como o organismo da Joice irá reagir aos procedimentos. Dentre esse valor total, estão inclusos os custos gerais com o hospital (envolvendo médicos, enfermeiros, exames, procedimentos cirúrgicos, medicamentos, etc), alimentação da Joice e seus pais (que estarão a acompanhando), transporte, aluguel de um apartamento por 3 a 5 meses (o tratamento é gradativo e lento, e assim há a necessidade de que ela se hospede em um apartamento próximo ao hospital, completamente esterilizado e incubado, para evitar que ela tenha qualquer problema de saúde durante o processo), bem como os gastos rotineiros de uma moradia nesses meses.\n</string>
+</resources>
