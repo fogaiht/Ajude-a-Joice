@@ -1,5 +1,8 @@
 <resources>
     <string name="app_name">Ajude a Joice</string>
+    <string name="help">"Saiba como ajudar</string>
+    <string name="vaca">Conheça o Vakinha</string>
+    <string name="comments">Deixe sua mensagem de apoio</string>
     <string name="action_settings">Settings</string>
     <string name="eventos">Eventos</string>
     <string name="ajude">Ajude</string>
