@@ -40,7 +40,8 @@
             android:name="com.google.android.geo.API_KEY"
             android:value="@string/api_maps_key" />
 
-        <activity android:name=".Ajude"></activity>
+        <activity android:name=".Ajude" />
+        <activity android:name=".DB"></activity>
     </application>
 
 </manifest>
