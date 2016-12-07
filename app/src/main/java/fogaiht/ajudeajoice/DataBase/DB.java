@@ -7,7 +7,7 @@ import java.sql.ResultSet;
 public class DB extends _Default implements Runnable {
 
     private Connection conn;
-    //    private String host = "172.31.13.151";
+    private String host = "172.31.13.151";
     private String db = "android";
     private int port = 2345;
 
@@ -16,7 +16,7 @@ public class DB extends _Default implements Runnable {
 
     private String pass="thiago05"; //senha
     private String user="postgres";
-    private String url = "jdbc:postgresql://192.168.1.10:5433/";
+    private String url = "jdbc:postgresql://192.168.1.5:5433/";
 
     public DB() {
         super();
