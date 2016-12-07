@@ -11,7 +11,7 @@ import android.view.WindowManager;
  * Created by thiag on 24/09/2016.
  */
 
-public class FrontApp extends AppCompatActivity{
+public class FrontApp extends AppCompatActivity {
     private static int TEMPO_SPLASH = 1000;
     protected void onCreate(Bundle savedInstanceState) {
 //        requestWindowFeature(Window.FEATURE_NO_TITLE);

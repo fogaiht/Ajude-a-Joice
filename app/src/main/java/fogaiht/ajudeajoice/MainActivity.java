@@ -1,9 +1,8 @@
 package fogaiht.ajudeajoice;
 
 import android.content.Intent;
-import android.net.Uri;
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.widget.ImageButton;
 
@@ -17,7 +16,7 @@ public class MainActivity extends AppCompatActivity {
         ImageButton iniciar = (ImageButton) findViewById(R.id.help);
         iniciar.setOnClickListener(new View.OnClickListener() {
             public void onClick(View v) {
-                startActivity(new Intent(getBaseContext(), Help.class));
+                startActivity(new Intent(getBaseContext(), Ajude.class));
             }
         });
 
