@@ -41,7 +41,6 @@
             android:value="@string/api_maps_key" />
 
         <activity android:name=".Ajude" />
-        <activity android:name=".DB"></activity>
     </application>
 
 </manifest>
