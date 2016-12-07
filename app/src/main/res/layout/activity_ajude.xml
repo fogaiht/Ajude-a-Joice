@@ -27,7 +27,7 @@
         android:background="@drawable/vakinha"
         android:layout_below="@+id/textView11"
         android:layout_marginTop="70dp"
-        android:id="@+id/imageButton"
+        android:id="@+id/vakinha"
         android:layout_alignParentRight="true"
         android:layout_alignParentEnd="true"
         android:layout_alignParentLeft="true"
@@ -48,14 +48,14 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="65dp"
         android:id="@+id/textView13"
-        android:layout_below="@+id/imageButton"
+        android:layout_below="@+id/vakinha"
         android:layout_centerHorizontal="true" />
 
     <ImageButton
         android:layout_width="50dp"
         android:layout_height="50dp"
         android:background="@drawable/eco"
-        android:id="@+id/imageButton2"
+        android:id="@+id/comments"
         android:layout_below="@+id/textView13"
         android:layout_marginTop="37dp"
         android:layout_alignParentBottom="true"

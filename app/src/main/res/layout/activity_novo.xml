@@ -1,0 +1,114 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    tools:context="fogaiht.ajudeajoice.DataBase.NovoActivity">
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="textEmailAddress"
+        android:ems="13"
+        android:id="@+id/editTextEmail"
+        android:layout_below="@+id/editTextNome"
+        android:layout_alignLeft="@+id/editTextNome"
+        android:layout_alignStart="@+id/editTextNome"
+        android:maxLength="200"/>
+
+    <TextView
+        android:text="Email:"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView15"
+        android:layout_alignBaseline="@+id/editTextEmail"
+        android:layout_alignBottom="@+id/editTextEmail"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_toLeftOf="@+id/editTextEmail"
+        android:layout_toStartOf="@+id/editTextEmail" />
+
+    <!--<EditText-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:inputType="phone"-->
+        <!--android:ems="10"-->
+        <!--android:id="@+id/editTextTelefone"-->
+        <!--android:layout_below="@+id/editTextEmail"-->
+        <!--android:layout_alignLeft="@+id/editTextEmail"-->
+        <!--android:layout_alignStart="@+id/editTextEmail" />-->
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="textMultiLine"
+        android:ems="10"
+        android:id="@+id/editTextMensagem"
+        android:layout_below="@+id/editTextEmail"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="50dp"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:maxLength="200"/>
+
+    <TextView
+        android:text="Mensagem (200 caracteres):"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView16"
+        android:layout_below="@+id/editTextEmail"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="24dp" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:ems="13"
+        android:id="@+id/editTextNome"
+        android:layout_alignBaseline="@+id/textView14"
+        android:layout_alignBottom="@+id/textView14"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:maxLength="200"/>
+
+    <TextView
+        android:text="Nome:"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="35dp"
+        android:id="@+id/textView14"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <Button
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Salvar"
+        android:id="@+id/buttonSalvar"
+        android:onClick="salvar"
+        android:layout_alignBaseline="@+id/buttonCancelar"
+        android:layout_alignBottom="@+id/buttonCancelar"
+        android:layout_toRightOf="@+id/textView16"
+        android:layout_toEndOf="@+id/textView16"
+        android:layout_marginLeft="23dp"
+        android:layout_marginStart="23dp" />
+
+    <Button
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Cancelar"
+        android:id="@+id/buttonCancelar"
+        android:onClick="cancelar"
+        android:layout_marginBottom="36dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignLeft="@+id/editTextEmail"
+        android:layout_alignStart="@+id/editTextEmail" />
+
+</RelativeLayout>
